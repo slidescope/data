@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,UnitsSold,UnitPrice
+101.0,Apple,Fruit,10.0,1.2
+102.0,Banana,Fruit,15.0,0.5
+103.0,Cherry,Fruit,,2.0
+104.0,Date,Fruit,5.0,1.8
+,,Fruit,8.0,1.5
+106.0,Fig,Fruit,0.0,1.0
+107.0,,Fruit,7.0,1.3
+108.0,Honeydew,Fruit,,2.2
+109.0,Indian Fig,Fruit,20.0,
+,Jackfruit,,11.0,2.5
