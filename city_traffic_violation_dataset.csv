@@ -1,0 +1,201 @@
+Violation Type,Vehicle Type,Location Zone,Day of Week,Fine Amount,Number of Offenders,Violation Time,Repeat Offenders Count
+Drunk Driving,Truck,West,Friday,409.09,4,09:00,0
+Speeding,Car,North,Thursday,719.83,2,19:00,1
+Drunk Driving,Bike,West,Tuesday,286.29,1,20:00,0
+Drunk Driving,Car,North,Tuesday,363.74,4,08:00,3
+Speeding,Bike,West,Friday,462.73,3,02:00,1
+Speeding,Truck,West,Sunday,291.0,2,19:00,1
+Drunk Driving,Truck,South,Thursday,434.94,1,10:00,1
+Signal Jump,Bike,North,Monday,592.9,5,05:00,3
+Drunk Driving,Bus,South,Saturday,753.93,4,01:00,1
+Drunk Driving,Bike,North,Saturday,778.84,2,06:00,3
+Drunk Driving,Bus,South,Friday,831.65,2,17:00,1
+Drunk Driving,Car,East,Sunday,757.0,3,01:00,2
+Speeding,Car,West,Tuesday,696.99,3,16:00,0
+Drunk Driving,Car,North,Tuesday,275.63,5,10:00,2
+Signal Jump,Truck,North,Saturday,430.21,5,11:00,0
+Speeding,Car,West,Friday,503.83,1,18:00,3
+Signal Jump,Bus,North,Thursday,128.75,1,21:00,2
+Signal Jump,Car,North,Tuesday,551.95,5,23:00,1
+Signal Jump,Bike,South,Thursday,464.52,5,06:00,0
+Signal Jump,Bike,North,Sunday,812.0,4,19:00,0
+Speeding,Truck,East,Tuesday,979.01,3,05:00,2
+Speeding,Bike,East,Tuesday,578.2,1,20:00,3
+Signal Jump,Bus,West,Wednesday,356.55,3,23:00,2
+Signal Jump,Car,North,Tuesday,91.23,3,00:00,3
+Speeding,Truck,West,Monday,928.41,5,16:00,3
+Speeding,Car,East,Friday,923.16,4,10:00,0
+Speeding,Car,North,Friday,290.34,2,21:00,2
+Drunk Driving,Bus,North,Thursday,710.64,4,17:00,2
+Drunk Driving,Bike,West,Sunday,121.66,4,20:00,3
+Drunk Driving,Bike,East,Tuesday,207.9,3,16:00,2
+Signal Jump,Car,North,Monday,255.97,4,06:00,1
+Drunk Driving,Truck,West,Thursday,329.77,1,16:00,1
+Signal Jump,Bike,East,Wednesday,996.04,3,19:00,2
+Signal Jump,Truck,West,Thursday,712.08,1,08:00,2
+Drunk Driving,Bike,South,Thursday,414.99,2,16:00,3
+Signal Jump,Truck,North,Tuesday,750.25,3,19:00,1
+Drunk Driving,Bus,South,Wednesday,919.49,2,21:00,1
+Drunk Driving,Truck,East,Thursday,960.77,3,21:00,0
+Speeding,Bus,South,Monday,104.97,5,07:00,3
+Drunk Driving,Bus,South,Monday,424.8,4,16:00,0
+Speeding,Truck,East,Friday,151.42,5,06:00,1
+Drunk Driving,Bus,West,Wednesday,368.88,2,00:00,3
+Drunk Driving,Car,South,Wednesday,211.2,4,12:00,2
+Speeding,Bus,West,Friday,664.51,3,22:00,3
+Speeding,Bike,South,Thursday,418.85,4,18:00,2
+Drunk Driving,Truck,West,Wednesday,267.93,1,23:00,2
+Signal Jump,Car,East,Monday,302.64,4,18:00,3
+Speeding,Truck,South,Monday,392.33,1,16:00,2
+Signal Jump,Bike,East,Tuesday,296.95,4,12:00,0
+Signal Jump,Bike,South,Wednesday,480.58,1,15:00,1
+Signal Jump,Bike,East,Thursday,80.7,2,07:00,2
+Speeding,Bus,East,Friday,315.78,5,18:00,0
+Signal Jump,Bus,South,Friday,440.65,3,17:00,2
+Speeding,Truck,South,Thursday,622.64,4,00:00,1
+Signal Jump,Truck,South,Sunday,307.41,5,13:00,0
+Drunk Driving,Car,North,Saturday,176.53,3,18:00,1
+Drunk Driving,Car,West,Tuesday,122.39,3,14:00,1
+Speeding,Truck,North,Friday,943.51,1,17:00,0
+Drunk Driving,Bus,North,Wednesday,445.81,2,01:00,0
+Drunk Driving,Bike,East,Tuesday,602.1,2,21:00,0
+Signal Jump,Truck,South,Wednesday,923.22,5,16:00,3
+Speeding,Car,West,Sunday,128.61,2,17:00,0
+Signal Jump,Bus,East,Monday,882.83,4,05:00,0
+Signal Jump,Truck,North,Tuesday,574.01,2,18:00,0
+Signal Jump,Truck,South,Friday,206.59,5,03:00,0
+Signal Jump,Bus,East,Tuesday,440.69,2,00:00,2
+Signal Jump,Truck,South,Tuesday,788.72,4,07:00,3
+Signal Jump,Bus,East,Tuesday,506.35,1,22:00,1
+Signal Jump,Bike,South,Saturday,986.02,5,06:00,0
+Speeding,Bus,North,Tuesday,407.9,1,02:00,2
+Drunk Driving,Bus,West,Wednesday,762.1,1,09:00,2
+Signal Jump,Bus,North,Monday,423.34,1,09:00,2
+Signal Jump,Truck,West,Sunday,837.71,3,18:00,1
+Signal Jump,Truck,South,Thursday,590.63,3,13:00,0
+Signal Jump,Bus,East,Tuesday,110.34,1,01:00,3
+Signal Jump,Truck,North,Friday,84.98,5,00:00,3
+Signal Jump,Car,West,Tuesday,177.16,4,22:00,2
+Drunk Driving,Car,North,Friday,62.99,4,22:00,1
+Drunk Driving,Truck,West,Wednesday,121.59,2,17:00,1
+Signal Jump,Truck,North,Friday,707.13,5,06:00,1
+Drunk Driving,Bus,West,Thursday,557.63,3,07:00,3
+Speeding,Bike,West,Monday,762.42,1,00:00,2
+Signal Jump,Truck,South,Friday,917.51,2,22:00,0
+Speeding,Car,West,Friday,605.89,4,02:00,3
+Speeding,Bus,South,Monday,739.81,3,23:00,2
+Signal Jump,Truck,West,Thursday,769.23,3,22:00,2
+Drunk Driving,Car,East,Tuesday,408.96,1,07:00,0
+Speeding,Car,East,Friday,279.03,4,21:00,0
+Signal Jump,Bike,East,Monday,244.79,5,14:00,0
+Speeding,Bus,West,Wednesday,288.87,3,04:00,1
+Speeding,Bus,South,Monday,311.0,1,02:00,0
+Speeding,Bike,South,Wednesday,246.87,5,18:00,2
+Speeding,Bike,West,Thursday,884.31,4,00:00,0
+Drunk Driving,Bus,East,Tuesday,769.15,3,14:00,2
+Speeding,Bus,East,Monday,94.55,5,07:00,3
+Speeding,Truck,South,Sunday,305.24,5,01:00,1
+Speeding,Truck,East,Sunday,71.08,5,02:00,3
+Drunk Driving,Bike,North,Saturday,523.26,3,23:00,3
+Speeding,Truck,South,Friday,502.4,3,13:00,2
+Speeding,Car,East,Thursday,839.8,2,23:00,3
+Drunk Driving,Truck,South,Monday,342.39,4,13:00,2
+Drunk Driving,Truck,North,Sunday,825.57,1,10:00,0
+Drunk Driving,Car,South,Friday,969.58,5,15:00,0
+Speeding,Bike,South,Sunday,133.99,2,03:00,2
+Drunk Driving,Car,South,Monday,802.23,1,19:00,0
+Drunk Driving,Truck,South,Wednesday,610.46,2,04:00,1
+Speeding,Bike,North,Monday,506.04,3,21:00,3
+Drunk Driving,Truck,West,Saturday,449.51,5,20:00,1
+Speeding,Car,South,Monday,795.43,1,13:00,3
+Signal Jump,Car,South,Monday,657.39,1,22:00,0
+Drunk Driving,Truck,East,Saturday,814.79,1,15:00,1
+Signal Jump,Bus,South,Thursday,907.99,1,17:00,0
+Speeding,Bus,East,Monday,636.4,1,06:00,3
+Drunk Driving,Car,West,Saturday,981.44,2,09:00,2
+Speeding,Car,North,Friday,627.68,5,06:00,2
+Signal Jump,Bus,North,Wednesday,654.81,3,00:00,1
+Speeding,Bus,West,Wednesday,577.07,3,22:00,0
+Drunk Driving,Truck,North,Monday,136.45,3,20:00,0
+Drunk Driving,Truck,West,Thursday,740.08,3,18:00,1
+Signal Jump,Bus,West,Thursday,570.07,2,15:00,2
+Speeding,Truck,West,Friday,478.36,4,18:00,3
+Drunk Driving,Truck,North,Monday,914.95,5,03:00,1
+Signal Jump,Bike,East,Wednesday,333.06,1,17:00,3
+Drunk Driving,Truck,West,Thursday,547.42,4,01:00,2
+Drunk Driving,Car,South,Monday,712.76,3,00:00,0
+Speeding,Truck,North,Sunday,806.65,4,14:00,2
+Drunk Driving,Truck,West,Thursday,486.38,5,04:00,1
+Speeding,Bus,West,Saturday,849.99,1,19:00,0
+Drunk Driving,Car,South,Sunday,780.47,1,10:00,1
+Signal Jump,Truck,East,Thursday,112.92,5,09:00,1
+Drunk Driving,Truck,East,Wednesday,93.57,5,01:00,2
+Speeding,Bike,East,Tuesday,639.77,3,02:00,1
+Speeding,Truck,West,Sunday,380.04,1,22:00,2
+Signal Jump,Truck,West,Friday,248.67,4,22:00,0
+Drunk Driving,Bike,West,Friday,600.67,2,11:00,2
+Drunk Driving,Bus,North,Wednesday,374.49,2,19:00,0
+Signal Jump,Truck,South,Thursday,560.4,5,04:00,2
+Drunk Driving,Bike,West,Monday,487.11,3,04:00,3
+Drunk Driving,Car,South,Thursday,605.53,2,05:00,3
+Speeding,Bus,South,Wednesday,430.29,1,08:00,1
+Drunk Driving,Car,East,Friday,712.78,5,01:00,2
+Drunk Driving,Car,North,Thursday,221.06,4,20:00,2
+Signal Jump,Bike,West,Friday,711.68,5,11:00,0
+Signal Jump,Truck,East,Sunday,441.08,4,02:00,1
+Speeding,Bike,East,Monday,880.6,5,19:00,2
+Drunk Driving,Bike,West,Sunday,539.47,5,21:00,1
+Drunk Driving,Bike,South,Friday,974.45,5,11:00,3
+Drunk Driving,Bike,East,Friday,621.84,4,23:00,2
+Speeding,Bus,South,Tuesday,262.66,4,16:00,2
+Speeding,Truck,North,Tuesday,830.7,5,09:00,1
+Signal Jump,Car,South,Sunday,377.83,2,23:00,2
+Speeding,Car,North,Saturday,380.24,3,13:00,1
+Drunk Driving,Truck,South,Sunday,80.21,3,22:00,2
+Drunk Driving,Car,East,Tuesday,571.28,3,16:00,0
+Speeding,Truck,East,Friday,557.7,4,17:00,1
+Drunk Driving,Car,North,Wednesday,388.19,4,18:00,2
+Drunk Driving,Bike,West,Sunday,899.51,2,16:00,3
+Speeding,Car,North,Friday,172.31,3,13:00,2
+Speeding,Truck,North,Wednesday,363.59,3,08:00,3
+Drunk Driving,Truck,South,Wednesday,355.5,5,07:00,3
+Drunk Driving,Truck,South,Tuesday,137.68,4,01:00,0
+Drunk Driving,Truck,North,Sunday,507.09,3,12:00,1
+Signal Jump,Truck,East,Thursday,703.4,2,06:00,2
+Signal Jump,Bus,South,Monday,536.07,2,08:00,0
+Signal Jump,Bus,West,Tuesday,199.13,3,21:00,2
+Speeding,Car,South,Tuesday,408.42,4,21:00,3
+Signal Jump,Truck,South,Thursday,52.47,2,10:00,1
+Speeding,Car,West,Monday,874.89,5,13:00,2
+Speeding,Truck,North,Friday,130.29,2,03:00,2
+Signal Jump,Truck,West,Saturday,617.41,1,12:00,3
+Signal Jump,Bus,North,Sunday,986.94,1,01:00,2
+Signal Jump,Bus,North,Saturday,559.76,4,22:00,2
+Drunk Driving,Bike,North,Friday,927.84,3,04:00,3
+Signal Jump,Bus,West,Tuesday,274.31,4,10:00,0
+Drunk Driving,Bike,North,Monday,771.96,4,05:00,3
+Speeding,Bike,East,Tuesday,554.7,4,17:00,0
+Drunk Driving,Bike,West,Wednesday,734.49,4,20:00,1
+Signal Jump,Bike,East,Tuesday,109.22,5,09:00,0
+Speeding,Bike,North,Tuesday,190.35,5,03:00,0
+Speeding,Car,South,Friday,176.46,2,08:00,1
+Speeding,Bus,North,Friday,702.81,1,05:00,0
+Drunk Driving,Bike,East,Friday,852.22,4,01:00,3
+Signal Jump,Truck,East,Saturday,762.14,2,16:00,0
+Speeding,Bus,West,Wednesday,78.95,1,04:00,1
+Speeding,Bus,South,Friday,873.85,3,05:00,3
+Speeding,Bike,West,Monday,386.44,5,11:00,1
+Drunk Driving,Car,East,Saturday,427.31,1,22:00,1
+Drunk Driving,Bike,North,Thursday,149.63,3,20:00,2
+Signal Jump,Car,South,Monday,750.53,1,09:00,2
+Drunk Driving,Truck,North,Sunday,223.17,5,21:00,1
+Speeding,Bus,North,Sunday,585.77,5,20:00,1
+Signal Jump,Truck,South,Monday,848.67,2,05:00,1
+Speeding,Car,West,Friday,134.74,4,07:00,2
+Speeding,Car,North,Thursday,558.57,1,01:00,2
+Drunk Driving,Truck,East,Thursday,271.56,1,11:00,0
+Signal Jump,Car,North,Saturday,375.78,3,12:00,0
+Drunk Driving,Truck,South,Thursday,500.27,5,20:00,1
+Drunk Driving,Bus,South,Sunday,387.35,1,06:00,3
+Signal Jump,Truck,South,Wednesday,666.38,5,09:00,3
+Speeding,Bus,West,Friday,505.6,1,12:00,2
