@@ -1,0 +1,201 @@
+App ID,App Category,User Age Group,Platform,Region,Daily Active Users,Average Session Time (mins),Crash Rate (%),Total In-App Purchases
+APP0001,Social,Senior,Android,Asia,21271,8.77,4.66,555
+APP0002,Finance,Senior,Android,Europe,99316,6.47,3.44,812
+APP0003,Finance,Teen,Android,Europe,22031,20.98,0.25,998
+APP0004,Games,Senior,Android,South America,53110,11.46,1.24,828
+APP0005,Finance,Senior,iOS,Africa,20723,10.65,1.23,396
+APP0006,Games,Adult,iOS,South America,30116,19.08,1.59,837
+APP0007,Finance,Senior,iOS,North America,99395,21.85,0.77,694
+APP0008,Finance,Teen,iOS,South America,47541,14.73,1.06,16
+APP0009,Education,Senior,Android,South America,76014,11.13,2.27,335
+APP0010,Social,Adult,Android,Europe,61980,24.15,1.16,769
+APP0011,Games,Teen,Android,North America,23863,21.48,1.09,841
+APP0012,Social,Adult,iOS,Europe,91989,19.15,4.05,824
+APP0013,Finance,Adult,Android,North America,25814,26.67,1.11,849
+APP0014,Education,Adult,Android,Africa,23905,7.59,1.82,755
+APP0015,Games,Adult,iOS,Australia,38526,11.57,0.1,772
+APP0016,Finance,Teen,Android,Asia,6706,29.44,2.64,433
+APP0017,Education,Adult,Android,Europe,9425,28.69,0.49,59
+APP0018,Education,Adult,iOS,North America,47156,6.78,1.15,519
+APP0019,Games,Senior,iOS,North America,23275,7.76,3.1,299
+APP0020,Games,Senior,Android,North America,4980,18.32,2.31,888
+APP0021,Social,Senior,iOS,Asia,18710,18.43,4.49,187
+APP0022,Social,Adult,iOS,North America,22640,11.67,3.04,967
+APP0023,Finance,Adult,iOS,Africa,46681,9.35,4.3,477
+APP0024,Games,Teen,Android,North America,17407,25.11,4.9,416
+APP0025,Social,Senior,iOS,Australia,58774,2.1,4.09,243
+APP0026,Games,Teen,iOS,Australia,26136,18.7,0.43,648
+APP0027,Games,Teen,Android,Africa,71188,11.94,3.17,258
+APP0028,Finance,Teen,iOS,Australia,52616,15.36,4.75,467
+APP0029,Social,Teen,iOS,Australia,14319,11.56,0.99,856
+APP0030,Finance,Adult,iOS,South America,26267,16.57,3.99,836
+APP0031,Finance,Adult,iOS,Europe,1251,24.68,2.74,998
+APP0032,Education,Teen,iOS,South America,30604,16.7,3.34,712
+APP0033,Games,Teen,Android,Asia,73220,14.05,4.77,203
+APP0034,Education,Senior,iOS,Asia,90828,26.71,4.19,27
+APP0035,Finance,Teen,Android,South America,98875,13.56,3.3,39
+APP0036,Games,Senior,Android,Asia,90487,9.26,3.7,537
+APP0037,Social,Teen,Android,Europe,41628,18.55,1.2,977
+APP0038,Games,Adult,Android,Australia,8650,20.83,0.95,533
+APP0039,Finance,Teen,iOS,Australia,89926,10.17,2.69,849
+APP0040,Games,Teen,Android,Australia,21065,11.68,3.72,979
+APP0041,Education,Adult,iOS,North America,94501,10.02,4.76,689
+APP0042,Social,Senior,iOS,Europe,89415,25.2,1.94,919
+APP0043,Games,Senior,Android,North America,58374,20.08,4.56,962
+APP0044,Social,Teen,iOS,Africa,65770,7.09,1.25,538
+APP0045,Social,Senior,Android,Europe,87858,14.83,4.97,979
+APP0046,Social,Adult,Android,Africa,66932,5.9,2.76,58
+APP0047,Finance,Adult,Android,Asia,42632,27.05,3.72,354
+APP0048,Finance,Senior,iOS,Africa,84155,9.33,0.28,259
+APP0049,Finance,Senior,iOS,Australia,51650,5.81,4.88,450
+APP0050,Games,Senior,iOS,Europe,80059,27.95,3.68,696
+APP0051,Education,Adult,Android,South America,67247,17.48,4.9,962
+APP0052,Finance,Senior,Android,Europe,76092,25.08,4.01,933
+APP0053,Social,Adult,Android,South America,77710,9.82,4.11,883
+APP0054,Social,Teen,iOS,North America,55944,6.1,3.61,956
+APP0055,Social,Senior,iOS,Asia,11602,4.1,2.3,898
+APP0056,Social,Adult,iOS,Africa,70823,11.7,2.69,680
+APP0057,Finance,Teen,Android,South America,21930,6.41,1.24,674
+APP0058,Finance,Senior,Android,South America,57095,24.32,2.83,299
+APP0059,Finance,Adult,Android,Africa,48240,25.74,1.91,89
+APP0060,Education,Teen,Android,Asia,72613,24.85,2.25,689
+APP0061,Games,Adult,iOS,North America,77790,11.39,1.67,486
+APP0062,Games,Teen,Android,Asia,86552,25.54,1.93,773
+APP0063,Education,Senior,Android,Australia,40212,15.13,4.04,391
+APP0064,Education,Adult,Android,Europe,16918,10.39,1.98,804
+APP0065,Education,Adult,iOS,Asia,58112,22.08,2.62,704
+APP0066,Finance,Adult,Android,Asia,41812,4.86,2.83,949
+APP0067,Social,Adult,Android,Europe,25897,8.03,0.54,780
+APP0068,Social,Senior,Android,Australia,55979,4.87,2.93,764
+APP0069,Games,Senior,iOS,Europe,28141,13.65,2.6,631
+APP0070,Education,Senior,iOS,Asia,29810,16.29,2.96,476
+APP0071,Education,Senior,Android,North America,71824,7.37,3.04,370
+APP0072,Education,Senior,iOS,Africa,76969,17.22,0.45,34
+APP0073,Education,Adult,iOS,Europe,70170,27.36,3.76,933
+APP0074,Finance,Adult,iOS,Europe,60098,11.12,4.59,447
+APP0075,Finance,Adult,Android,North America,37839,7.18,3.13,91
+APP0076,Social,Senior,Android,North America,98013,5.23,1.0,653
+APP0077,Games,Teen,iOS,Africa,77211,15.35,3.32,205
+APP0078,Finance,Adult,Android,Europe,93613,22.35,1.96,48
+APP0079,Finance,Teen,iOS,Australia,70234,21.37,2.38,610
+APP0080,Finance,Adult,iOS,Australia,27410,27.43,2.75,836
+APP0081,Games,Senior,Android,Europe,92659,10.1,4.62,373
+APP0082,Social,Senior,Android,Europe,14622,7.09,1.14,991
+APP0083,Finance,Adult,Android,South America,98243,2.72,2.43,889
+APP0084,Games,Senior,iOS,Africa,69592,12.54,2.13,353
+APP0085,Social,Adult,iOS,North America,90856,11.82,4.92,0
+APP0086,Finance,Adult,Android,Europe,75013,2.82,1.28,390
+APP0087,Education,Adult,Android,Asia,29458,3.37,4.11,248
+APP0088,Education,Senior,iOS,Africa,3475,2.43,4.59,200
+APP0089,Social,Senior,iOS,Australia,2763,14.7,4.38,402
+APP0090,Finance,Senior,Android,Asia,43190,28.49,1.37,99
+APP0091,Social,Senior,Android,Africa,76756,15.74,4.36,834
+APP0092,Social,Teen,Android,North America,32588,22.72,4.18,845
+APP0093,Social,Teen,iOS,Australia,92767,14.82,3.74,241
+APP0094,Social,Adult,Android,Australia,2739,29.76,3.97,470
+APP0095,Education,Senior,Android,Africa,71719,5.34,3.05,133
+APP0096,Social,Senior,Android,North America,83043,2.85,3.53,102
+APP0097,Social,Senior,iOS,Australia,64753,20.12,4.77,751
+APP0098,Games,Teen,iOS,Europe,33114,22.07,1.69,533
+APP0099,Education,Teen,iOS,Asia,50771,21.67,1.64,850
+APP0100,Social,Senior,Android,Asia,26212,9.39,2.11,363
+APP0101,Games,Adult,Android,Asia,52250,21.92,0.83,755
+APP0102,Finance,Teen,iOS,Europe,14639,29.75,4.49,822
+APP0103,Finance,Teen,Android,Asia,40544,11.41,1.13,475
+APP0104,Games,Senior,Android,Africa,11393,29.0,4.22,528
+APP0105,Finance,Teen,iOS,North America,56865,9.39,1.07,174
+APP0106,Education,Adult,iOS,Africa,36701,24.49,2.29,959
+APP0107,Education,Senior,Android,North America,43676,14.32,3.69,657
+APP0108,Social,Teen,Android,Australia,30545,17.37,0.81,281
+APP0109,Education,Adult,iOS,Asia,64279,7.61,4.56,67
+APP0110,Education,Teen,Android,North America,81561,2.76,1.35,734
+APP0111,Education,Teen,iOS,Africa,71721,25.9,0.5,379
+APP0112,Finance,Teen,iOS,Europe,46390,7.55,2.02,604
+APP0113,Games,Teen,iOS,Africa,76158,13.2,3.55,70
+APP0114,Games,Teen,iOS,Australia,60282,5.18,4.17,979
+APP0115,Education,Senior,iOS,South America,55424,9.94,4.78,539
+APP0116,Education,Adult,Android,North America,2216,24.39,3.04,980
+APP0117,Social,Senior,Android,Asia,37827,12.51,4.32,248
+APP0118,Finance,Adult,iOS,Europe,88340,24.13,2.67,980
+APP0119,Social,Senior,iOS,North America,15675,16.0,0.59,684
+APP0120,Social,Adult,iOS,South America,60331,13.28,2.63,398
+APP0121,Games,Senior,iOS,Asia,75684,7.06,4.32,3
+APP0122,Games,Adult,iOS,Australia,54844,25.95,1.49,626
+APP0123,Social,Senior,iOS,Africa,83688,13.84,3.89,600
+APP0124,Education,Teen,iOS,North America,35138,21.09,1.32,761
+APP0125,Education,Teen,Android,South America,73259,15.67,0.29,8
+APP0126,Social,Senior,iOS,Asia,96886,11.39,2.72,331
+APP0127,Education,Senior,Android,South America,33644,24.93,4.75,771
+APP0128,Games,Teen,Android,Australia,95463,25.01,2.55,234
+APP0129,Finance,Teen,iOS,Africa,9792,26.93,2.74,554
+APP0130,Education,Senior,Android,North America,11422,17.07,4.31,522
+APP0131,Games,Senior,Android,Europe,98684,22.52,1.26,14
+APP0132,Finance,Teen,Android,Europe,23980,2.86,4.84,568
+APP0133,Finance,Teen,iOS,South America,48072,10.67,1.63,259
+APP0134,Education,Adult,iOS,South America,62804,3.69,0.13,33
+APP0135,Social,Teen,iOS,South America,30461,28.7,0.88,557
+APP0136,Social,Adult,Android,North America,83733,7.58,0.32,234
+APP0137,Finance,Senior,Android,Europe,51331,5.55,2.87,266
+APP0138,Education,Senior,Android,Europe,66362,11.84,4.92,96
+APP0139,Social,Adult,iOS,Africa,21328,16.64,1.15,797
+APP0140,Finance,Senior,iOS,Australia,88756,21.17,4.98,878
+APP0141,Social,Teen,iOS,Europe,25344,7.96,4.34,646
+APP0142,Social,Senior,iOS,Europe,8762,4.76,0.65,404
+APP0143,Games,Adult,Android,Africa,85121,15.91,4.96,108
+APP0144,Finance,Teen,Android,North America,45980,19.19,4.76,609
+APP0145,Social,Adult,Android,Asia,4522,18.25,2.79,390
+APP0146,Finance,Senior,iOS,South America,62703,14.19,0.79,430
+APP0147,Education,Senior,Android,South America,93364,7.06,4.78,383
+APP0148,Games,Adult,iOS,Asia,85054,24.99,2.1,31
+APP0149,Games,Teen,iOS,Australia,32069,3.08,2.52,663
+APP0150,Games,Teen,Android,Australia,94413,27.69,4.97,10
+APP0151,Finance,Senior,Android,North America,38102,25.15,3.79,770
+APP0152,Games,Adult,Android,Asia,77167,15.47,1.58,143
+APP0153,Games,Senior,iOS,Australia,97120,14.36,1.99,761
+APP0154,Finance,Senior,iOS,Asia,64970,16.98,0.51,935
+APP0155,Games,Adult,Android,Australia,94763,10.55,3.38,34
+APP0156,Finance,Senior,iOS,Africa,92079,29.23,3.13,163
+APP0157,Education,Teen,Android,Asia,76661,17.75,4.42,66
+APP0158,Finance,Teen,iOS,Australia,76250,14.78,3.47,68
+APP0159,Finance,Senior,iOS,Australia,44416,20.63,1.16,13
+APP0160,Finance,Senior,Android,Asia,70104,6.78,4.64,833
+APP0161,Finance,Adult,iOS,Asia,59990,15.4,0.55,11
+APP0162,Education,Teen,iOS,Asia,22777,18.48,3.41,880
+APP0163,Finance,Adult,Android,Asia,57603,18.59,2.82,978
+APP0164,Finance,Teen,iOS,Europe,67622,10.94,4.57,456
+APP0165,Social,Adult,iOS,Europe,9245,26.81,2.77,36
+APP0166,Education,Adult,Android,South America,68176,11.55,0.43,951
+APP0167,Education,Adult,Android,Australia,98219,12.63,1.06,916
+APP0168,Education,Teen,iOS,Europe,54204,26.28,2.36,752
+APP0169,Finance,Senior,iOS,Europe,44331,23.69,4.2,434
+APP0170,Education,Teen,Android,Asia,12775,25.76,4.54,41
+APP0171,Education,Adult,iOS,South America,32001,9.03,0.45,203
+APP0172,Social,Senior,Android,Europe,85808,3.07,3.82,959
+APP0173,Social,Senior,iOS,Asia,76594,11.68,0.64,885
+APP0174,Education,Teen,iOS,Australia,18374,21.41,2.17,36
+APP0175,Games,Senior,iOS,South America,28513,23.36,1.72,159
+APP0176,Education,Teen,iOS,Australia,48048,23.04,0.91,899
+APP0177,Finance,Teen,iOS,South America,42015,24.79,4.91,272
+APP0178,Games,Teen,iOS,South America,16466,23.28,0.9,359
+APP0179,Finance,Adult,Android,North America,94333,15.26,0.54,79
+APP0180,Social,Teen,iOS,North America,57908,24.22,4.26,570
+APP0181,Education,Adult,Android,North America,14921,6.45,2.43,519
+APP0182,Games,Adult,iOS,North America,72196,22.42,3.42,321
+APP0183,Social,Senior,iOS,Europe,34565,3.32,2.34,522
+APP0184,Finance,Adult,iOS,North America,50604,25.09,4.28,796
+APP0185,Games,Senior,Android,South America,88458,9.27,3.54,571
+APP0186,Social,Adult,iOS,Australia,12296,12.86,2.68,341
+APP0187,Social,Senior,Android,Africa,54568,22.43,2.08,717
+APP0188,Social,Teen,Android,Asia,68446,19.38,4.83,195
+APP0189,Finance,Senior,iOS,Africa,54488,18.14,2.82,23
+APP0190,Games,Senior,iOS,South America,10206,28.3,0.52,333
+APP0191,Finance,Senior,iOS,Asia,95501,2.79,1.92,30
+APP0192,Education,Adult,Android,North America,31073,20.61,4.5,699
+APP0193,Finance,Senior,Android,North America,16887,23.14,2.0,566
+APP0194,Education,Senior,Android,Africa,7245,14.69,0.58,336
+APP0195,Games,Adult,Android,South America,84785,6.6,2.0,816
+APP0196,Games,Senior,Android,Africa,47303,21.56,3.44,920
+APP0197,Education,Teen,Android,Australia,87419,6.55,4.05,748
+APP0198,Finance,Senior,Android,Europe,20476,3.28,3.55,928
+APP0199,Social,Senior,Android,Asia,34984,13.21,2.91,896
+APP0200,Social,Senior,iOS,North America,95641,12.88,0.43,29
