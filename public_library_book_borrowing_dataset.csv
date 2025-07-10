@@ -1,0 +1,201 @@
+Transaction ID,Genre,Member Type,Library Branch,Day of Week,Borrow Duration (days),Late Fees,Renewals Count,Pages Read
+TXN0001,Technology,Senior,Central,Saturday,1,5.35,0,456
+TXN0002,Technology,Senior,North Branch,Wednesday,11,18.91,0,971
+TXN0003,Science,Senior,North Branch,Sunday,16,18.13,3,204
+TXN0004,Science,Student,Central,Saturday,19,6.86,3,716
+TXN0005,Romance,Adult,North Branch,Monday,4,18.66,1,489
+TXN0006,Children,Student,Central,Sunday,25,14.99,3,118
+TXN0007,Non-Fiction,Senior,South Branch,Saturday,29,14.59,3,745
+TXN0008,Romance,Senior,East Branch,Tuesday,28,10.83,2,907
+TXN0009,Children,Adult,West Branch,Friday,17,7.15,3,703
+TXN0010,Children,Adult,West Branch,Tuesday,15,4.57,2,221
+TXN0011,History,Student,East Branch,Tuesday,29,6.27,3,544
+TXN0012,Technology,Adult,South Branch,Thursday,6,5.06,3,691
+TXN0013,Non-Fiction,Senior,West Branch,Tuesday,5,16.66,1,190
+TXN0014,Science,Senior,Central,Monday,15,18.07,1,648
+TXN0015,Technology,Student,Central,Sunday,25,17.14,2,267
+TXN0016,Fiction,Student,South Branch,Sunday,30,19.45,3,340
+TXN0017,Children,Student,South Branch,Thursday,10,0.34,1,1110
+TXN0018,Fiction,Senior,East Branch,Tuesday,3,14.0,2,617
+TXN0019,Fiction,Adult,West Branch,Tuesday,22,6.91,3,1081
+TXN0020,Technology,Adult,North Branch,Friday,20,6.3,0,1039
+TXN0021,History,Adult,Central,Wednesday,11,5.01,1,462
+TXN0022,Children,Adult,Central,Saturday,23,16.74,3,803
+TXN0023,Mystery,Adult,Central,Wednesday,18,9.44,3,288
+TXN0024,History,Student,East Branch,Monday,8,10.56,2,206
+TXN0025,Romance,Senior,West Branch,Thursday,26,11.74,2,631
+TXN0026,Children,Senior,South Branch,Thursday,24,1.62,0,531
+TXN0027,History,Senior,West Branch,Tuesday,6,8.14,2,121
+TXN0028,Science,Student,East Branch,Monday,17,11.64,0,835
+TXN0029,History,Student,East Branch,Saturday,15,11.36,0,1009
+TXN0030,Children,Student,North Branch,Friday,14,4.75,0,596
+TXN0031,Romance,Adult,West Branch,Tuesday,12,1.44,3,620
+TXN0032,Science,Senior,East Branch,Thursday,16,14.33,1,380
+TXN0033,Non-Fiction,Senior,East Branch,Wednesday,9,16.3,2,659
+TXN0034,Mystery,Senior,Central,Thursday,13,4.73,3,590
+TXN0035,Science,Adult,South Branch,Sunday,28,5.32,3,769
+TXN0036,Romance,Adult,Central,Monday,2,4.13,1,773
+TXN0037,Fiction,Senior,South Branch,Sunday,21,7.64,1,194
+TXN0038,Fiction,Student,East Branch,Monday,4,15.0,2,820
+TXN0039,History,Senior,Central,Wednesday,3,4.16,2,218
+TXN0040,Mystery,Adult,North Branch,Wednesday,2,9.49,0,521
+TXN0041,Romance,Student,South Branch,Sunday,17,5.71,0,850
+TXN0042,Fiction,Adult,Central,Saturday,19,2.26,1,624
+TXN0043,Technology,Adult,Central,Wednesday,9,15.05,0,341
+TXN0044,Mystery,Student,North Branch,Friday,27,5.12,2,704
+TXN0045,Mystery,Student,East Branch,Saturday,17,13.77,2,961
+TXN0046,Non-Fiction,Senior,Central,Thursday,22,17.65,1,1129
+TXN0047,Romance,Adult,East Branch,Wednesday,20,6.26,0,464
+TXN0048,Technology,Student,Central,Thursday,25,19.76,1,459
+TXN0049,History,Student,North Branch,Tuesday,3,19.07,1,954
+TXN0050,Fiction,Adult,West Branch,Tuesday,1,2.49,0,127
+TXN0051,Non-Fiction,Student,Central,Wednesday,20,18.87,3,884
+TXN0052,Technology,Adult,Central,Monday,20,7.27,1,740
+TXN0053,Technology,Senior,East Branch,Sunday,25,18.06,0,346
+TXN0054,Fiction,Senior,North Branch,Sunday,8,3.65,1,514
+TXN0055,Children,Adult,South Branch,Saturday,1,7.05,0,960
+TXN0056,Technology,Senior,South Branch,Friday,30,15.62,0,437
+TXN0057,History,Senior,South Branch,Monday,8,17.11,0,992
+TXN0058,Technology,Adult,East Branch,Saturday,23,3.78,0,650
+TXN0059,Romance,Adult,North Branch,Wednesday,29,0.8,1,968
+TXN0060,Romance,Senior,North Branch,Monday,15,8.04,3,866
+TXN0061,Mystery,Student,East Branch,Saturday,12,17.13,3,497
+TXN0062,Fiction,Adult,East Branch,Monday,9,17.44,1,951
+TXN0063,Mystery,Adult,Central,Monday,3,13.44,3,1092
+TXN0064,Romance,Adult,Central,Monday,18,16.47,0,222
+TXN0065,Romance,Senior,Central,Monday,16,4.28,1,1142
+TXN0066,Non-Fiction,Senior,North Branch,Sunday,7,16.34,0,516
+TXN0067,Technology,Student,West Branch,Tuesday,20,0.88,2,157
+TXN0068,Technology,Senior,North Branch,Sunday,28,6.6,3,783
+TXN0069,Mystery,Adult,North Branch,Monday,13,7.3,3,357
+TXN0070,Technology,Adult,West Branch,Friday,26,1.28,1,330
+TXN0071,Non-Fiction,Senior,Central,Tuesday,3,8.02,0,1154
+TXN0072,Mystery,Student,East Branch,Thursday,8,2.29,2,377
+TXN0073,Children,Adult,North Branch,Wednesday,23,11.35,2,335
+TXN0074,Technology,Student,South Branch,Sunday,23,0.23,2,357
+TXN0075,Romance,Senior,East Branch,Saturday,20,14.07,2,721
+TXN0076,Mystery,Adult,West Branch,Saturday,12,6.76,1,1156
+TXN0077,Children,Senior,Central,Wednesday,30,4.19,0,430
+TXN0078,Non-Fiction,Student,East Branch,Thursday,9,8.2,2,1122
+TXN0079,Fiction,Adult,East Branch,Friday,4,17.65,3,243
+TXN0080,Non-Fiction,Student,North Branch,Tuesday,28,9.39,1,798
+TXN0081,Romance,Student,East Branch,Sunday,23,5.39,3,719
+TXN0082,Children,Senior,West Branch,Friday,9,3.68,3,1008
+TXN0083,Science,Student,East Branch,Friday,7,16.66,1,991
+TXN0084,History,Senior,East Branch,Wednesday,10,10.51,1,58
+TXN0085,Non-Fiction,Adult,North Branch,Friday,13,16.7,3,245
+TXN0086,Romance,Student,South Branch,Monday,16,15.5,3,708
+TXN0087,Science,Adult,West Branch,Monday,1,12.9,2,586
+TXN0088,Fiction,Student,West Branch,Monday,18,13.95,0,150
+TXN0089,Science,Student,South Branch,Monday,5,17.53,3,384
+TXN0090,Mystery,Senior,North Branch,Friday,3,19.79,3,263
+TXN0091,Fiction,Student,East Branch,Sunday,26,10.35,2,1096
+TXN0092,Mystery,Student,West Branch,Thursday,9,7.99,0,406
+TXN0093,Children,Student,South Branch,Monday,22,2.54,2,378
+TXN0094,Science,Student,North Branch,Monday,15,2.15,0,1138
+TXN0095,Children,Senior,West Branch,Thursday,18,7.08,1,793
+TXN0096,Mystery,Senior,West Branch,Sunday,1,15.85,0,684
+TXN0097,Children,Student,East Branch,Thursday,24,3.58,3,251
+TXN0098,Non-Fiction,Adult,North Branch,Saturday,27,1.57,0,478
+TXN0099,Mystery,Student,South Branch,Saturday,1,19.27,1,564
+TXN0100,Mystery,Student,East Branch,Sunday,24,8.63,2,445
+TXN0101,History,Student,North Branch,Tuesday,13,12.79,1,895
+TXN0102,Mystery,Student,West Branch,Tuesday,5,6.37,1,342
+TXN0103,Non-Fiction,Adult,South Branch,Friday,25,1.69,0,813
+TXN0104,Children,Adult,North Branch,Wednesday,17,4.35,0,156
+TXN0105,History,Senior,North Branch,Sunday,18,15.46,3,968
+TXN0106,Technology,Senior,West Branch,Monday,14,3.06,2,606
+TXN0107,Fiction,Student,North Branch,Monday,16,16.17,0,885
+TXN0108,Science,Student,North Branch,Saturday,10,0.57,1,356
+TXN0109,History,Senior,Central,Monday,19,19.74,3,374
+TXN0110,Science,Senior,North Branch,Saturday,19,7.62,3,93
+TXN0111,Mystery,Student,East Branch,Tuesday,11,0.81,3,1088
+TXN0112,Romance,Student,West Branch,Sunday,16,18.19,2,909
+TXN0113,Fiction,Senior,East Branch,Friday,24,11.23,1,779
+TXN0114,Mystery,Senior,East Branch,Monday,3,6.54,0,859
+TXN0115,Non-Fiction,Adult,West Branch,Friday,22,9.84,1,1046
+TXN0116,Mystery,Student,West Branch,Monday,12,18.01,0,579
+TXN0117,Mystery,Senior,West Branch,Saturday,13,18.9,0,770
+TXN0118,Mystery,Student,South Branch,Friday,1,2.86,3,1151
+TXN0119,Science,Student,West Branch,Monday,22,3.44,3,641
+TXN0120,Science,Adult,Central,Wednesday,16,18.28,0,746
+TXN0121,Fiction,Student,North Branch,Monday,9,0.32,2,135
+TXN0122,Romance,Senior,East Branch,Monday,6,8.33,3,864
+TXN0123,Non-Fiction,Student,North Branch,Wednesday,19,0.18,0,780
+TXN0124,Science,Senior,South Branch,Tuesday,2,18.07,3,844
+TXN0125,Children,Senior,South Branch,Monday,15,10.25,2,101
+TXN0126,Technology,Senior,East Branch,Thursday,15,9.11,0,188
+TXN0127,Children,Senior,Central,Wednesday,2,10.67,3,458
+TXN0128,Fiction,Senior,West Branch,Saturday,5,16.41,2,90
+TXN0129,Mystery,Student,East Branch,Friday,5,8.2,3,378
+TXN0130,Mystery,Senior,South Branch,Sunday,25,16.69,1,556
+TXN0131,Non-Fiction,Student,East Branch,Friday,26,3.92,1,676
+TXN0132,Fiction,Senior,Central,Tuesday,13,4.25,1,162
+TXN0133,History,Student,South Branch,Wednesday,29,1.53,1,481
+TXN0134,Science,Senior,North Branch,Friday,2,11.92,3,190
+TXN0135,Fiction,Student,Central,Friday,15,0.95,1,102
+TXN0136,Non-Fiction,Adult,West Branch,Thursday,12,16.88,0,230
+TXN0137,History,Student,Central,Wednesday,20,12.92,1,611
+TXN0138,Romance,Student,West Branch,Thursday,10,10.59,3,518
+TXN0139,Science,Senior,East Branch,Tuesday,11,17.62,3,600
+TXN0140,Technology,Adult,South Branch,Wednesday,10,15.52,0,896
+TXN0141,Romance,Adult,West Branch,Monday,12,5.34,3,829
+TXN0142,Non-Fiction,Senior,East Branch,Monday,30,6.88,3,808
+TXN0143,Mystery,Adult,Central,Monday,1,12.57,0,252
+TXN0144,History,Adult,West Branch,Tuesday,29,9.82,0,202
+TXN0145,Children,Senior,West Branch,Sunday,15,4.72,3,1004
+TXN0146,History,Adult,East Branch,Tuesday,21,13.84,0,516
+TXN0147,Technology,Senior,Central,Monday,27,14.02,2,806
+TXN0148,Science,Adult,North Branch,Monday,2,19.08,3,1023
+TXN0149,Fiction,Senior,Central,Tuesday,1,9.82,0,495
+TXN0150,History,Student,South Branch,Sunday,20,10.16,1,643
+TXN0151,Romance,Student,North Branch,Wednesday,6,1.35,0,543
+TXN0152,Technology,Student,North Branch,Monday,9,4.7,0,1195
+TXN0153,Children,Adult,North Branch,Monday,12,17.84,0,304
+TXN0154,Romance,Student,West Branch,Friday,12,13.17,3,332
+TXN0155,History,Student,West Branch,Friday,20,6.24,2,986
+TXN0156,Romance,Adult,North Branch,Thursday,21,3.6,1,247
+TXN0157,Fiction,Senior,South Branch,Saturday,16,1.02,1,228
+TXN0158,Children,Senior,West Branch,Tuesday,5,11.4,1,977
+TXN0159,Science,Senior,Central,Tuesday,28,18.69,3,252
+TXN0160,Children,Adult,East Branch,Saturday,17,3.16,0,1024
+TXN0161,Mystery,Student,South Branch,Thursday,26,19.83,1,1118
+TXN0162,History,Student,East Branch,Monday,27,0.54,2,1113
+TXN0163,Science,Student,North Branch,Monday,21,14.28,2,676
+TXN0164,Romance,Senior,North Branch,Thursday,8,10.67,2,1114
+TXN0165,Children,Senior,East Branch,Friday,30,17.86,1,452
+TXN0166,Fiction,Student,South Branch,Friday,6,1.64,3,624
+TXN0167,Fiction,Senior,South Branch,Sunday,25,19.89,2,331
+TXN0168,Science,Senior,South Branch,Monday,6,11.22,1,820
+TXN0169,Mystery,Adult,Central,Thursday,9,0.83,1,799
+TXN0170,Science,Adult,West Branch,Wednesday,1,14.64,0,576
+TXN0171,Fiction,Student,West Branch,Monday,7,13.78,1,850
+TXN0172,Non-Fiction,Senior,North Branch,Sunday,6,14.65,3,1022
+TXN0173,Mystery,Adult,Central,Wednesday,20,14.39,3,596
+TXN0174,Technology,Senior,North Branch,Monday,8,5.66,0,425
+TXN0175,Children,Adult,Central,Sunday,17,12.2,3,749
+TXN0176,Technology,Student,South Branch,Thursday,28,19.51,3,874
+TXN0177,History,Senior,South Branch,Thursday,7,18.33,0,330
+TXN0178,Science,Senior,Central,Monday,20,5.72,1,137
+TXN0179,Science,Student,North Branch,Sunday,18,17.36,3,50
+TXN0180,Non-Fiction,Senior,Central,Thursday,23,6.47,0,661
+TXN0181,Fiction,Adult,Central,Wednesday,13,0.77,2,172
+TXN0182,Romance,Adult,East Branch,Wednesday,6,1.42,0,1176
+TXN0183,Non-Fiction,Student,South Branch,Monday,30,13.97,1,494
+TXN0184,Technology,Student,East Branch,Monday,3,19.13,3,1052
+TXN0185,Science,Senior,East Branch,Monday,4,8.16,1,494
+TXN0186,Mystery,Adult,East Branch,Friday,16,1.65,3,668
+TXN0187,Children,Student,West Branch,Wednesday,7,16.3,1,886
+TXN0188,Non-Fiction,Student,Central,Tuesday,19,16.74,1,1188
+TXN0189,History,Senior,Central,Saturday,18,11.4,3,1198
+TXN0190,Mystery,Senior,South Branch,Friday,9,3.56,1,215
+TXN0191,Mystery,Senior,North Branch,Sunday,23,6.6,3,873
+TXN0192,History,Adult,North Branch,Thursday,24,18.41,1,590
+TXN0193,Romance,Student,East Branch,Friday,17,7.95,1,821
+TXN0194,Technology,Student,North Branch,Saturday,17,3.8,2,547
+TXN0195,Science,Senior,South Branch,Saturday,2,11.23,2,780
+TXN0196,Science,Senior,West Branch,Wednesday,9,17.93,2,1057
+TXN0197,Fiction,Senior,South Branch,Saturday,6,3.19,0,616
+TXN0198,Fiction,Student,East Branch,Monday,1,4.9,3,171
+TXN0199,Non-Fiction,Senior,West Branch,Wednesday,2,17.19,3,1058
+TXN0200,Mystery,Senior,Central,Tuesday,20,6.7,0,281
